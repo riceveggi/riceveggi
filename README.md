@@ -1,4 +1,4 @@
-I like rice and veggies. My favorite veggie is roasted carrots.
+I like rice and veggies. 
 I'm still learning and happy to join the Github community. 
 
 Have a nice day
